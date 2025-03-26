@@ -29,3 +29,8 @@ pip install -r requirements.txt
 pip install pypiwin32  # Windows only  
 ```
 
+3. Run the program:
+
+```
+python app.py
+```
