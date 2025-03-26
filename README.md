@@ -34,3 +34,6 @@ pip install pypiwin32  # Windows only
 ```
 python app.py
 ```
+
+### Dependencies
+- pyttsx3
